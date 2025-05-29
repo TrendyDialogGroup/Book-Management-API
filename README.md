@@ -56,3 +56,7 @@ A comprehensive Spring Boot application for managing books with full CRUD operat
    mvn clean compile
    mvn spring-boot:run
    # Should be live on port 8080
+
+2. **Postman Collection is in the root of the project**
+   **File name:
+      Book Management.postman_collection.json
